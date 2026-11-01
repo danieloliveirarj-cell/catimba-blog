@@ -1,0 +1,50 @@
+name: CI
+# PR e main: a mesma checagem do site (scripts/checar.mjs + test/). Actions fixadas por sha. No PR deste repositório, as versões leves da capa
+# (AVIF/WebP) são geradas e sobem num commit do bot; o CI desse commit novo pede um clique em "Approve workflows to run"
+# no PR (o GitHub pede pra commit do bot em repositório público). PR de fork: sem as versões (o site usa o JPEG) e o
+# checar avisa.
+on:
+  pull_request:
+  push:
+    branches: [main]
+concurrency:
+  group: ci-${{ github.event_name }}-${{ github.head_ref || github.ref }}
+  cancel-in-progress: true
+permissions:
+  contents: read
+jobs:
+  capas:
+    if: github.event_name == 'pull_request' && github.event.pull_request.head.repo.full_name == github.repository
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+        with:
+          ref: ${{ github.head_ref }}
+      - uses: actions/setup-python@a26af69be951a213d495a4c3e4e4022e16d87065 # v5
+        with:
+          python-version: "3.12"
+      - run: pip install pillow==12.2.0
+      - run: python3 scripts/capas.py
+      - name: Sobe as versões novas no PR
+        env:
+          RAMO: ${{ github.head_ref }}
+        run: |
+          if [ -z "$(git status --porcelain artigos)" ]; then echo "capas em dia"; exit 0; fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add artigos
+          git commit -m "capas: versões leves (AVIF/WebP)"
+          git push origin "HEAD:$RAMO"
+  checagem:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+      - uses: actions/setup-node@49933ea5288caeca8642d1e84afbd3f7d6820020 # v4
+        with:
+          node-version: 22
+      - run: node scripts/checar.mjs
+      - run: node --test test/*.test.mjs

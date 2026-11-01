@@ -1,0 +1,10 @@
+{
+  "name": "catimba-blog",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "checar": "node scripts/checar.mjs",
+    "capas": "python3 scripts/capas.py",
+    "test": "node --test test/*.test.mjs"
+  }
+}
