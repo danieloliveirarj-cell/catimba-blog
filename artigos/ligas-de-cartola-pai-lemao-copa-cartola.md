@@ -65,6 +65,12 @@ Escalar na emoção. O exemplo que ele dá é clássico: o cartoleiro faz 100 po
 
 Outro erro comum, na liga clássica, é ousar em várias peças para tirar pontos e acabar cada vez mais longe da ponta. Com capitão e reserva de luxo, diz ele, também não dá mais para pensar só nos 11: "Você não escala só um time, você tem que adotar estratégias com essas peças".
 
+### Como escolher o capitão
+
+O capitão segue a mesma lógica do resto do time: regularidade. Mas, entre os jogadores regulares, o Pai Lemão prefere quem também tem chance real de gol, porque é o scout que mais pesa quando a pontuação é multiplicada.
+
+> "Capitão tem que ser regular, mas com possibilidade de gol. Se não marcar, ele pontua do mesmo jeito. Se marcar, faz a diferença na rodada."
+
 ### Os jogadores que ele indica
 
 O nome de sempre é o Arrascaeta, "o mito supremo de quem joga Cartola há anos". Nesta temporada, porém, o mais indicado por ele, em novembro de 2026, é o Samuel Lino: "É jogador nato pra Cartola, pontua com vários scouts". Lino também foi a escolha do [Espião do Cartola](/blog/scouts-cartola-espiao-do-cartola) e do HJP Sports.
@@ -74,6 +80,8 @@ O nome de sempre é o Arrascaeta, "o mito supremo de quem joga Cartola há anos"
 Quem joga ligas de Cartola sabe que a semana tem dias sem rodada. É aí que entra o [Catimba Fantasy](/fantasy/): cada data com jogos vira uma sala, você monta o time com os jogadores das partidas do dia, escolhe o capitão, que pontua 1,5×, e acompanha a pontuação ao vivo. Tem sala de Libertadores, Copa do Brasil e Champions League, e também de campeonatos menos visados, como MLS, Liga Saudita e Campeonato Colombiano.
 
 O Catimba é um fantasy game de futebol brasileiro no ar há 10 anos, desde 2016. [Conheça o Catimba Fantasy](/blog/catimba-fantasy).
+
+> "Jogo o Catimba Fantasy todos os dias. Libertadores, Copa do Brasil e Champions, claro, mas também os campeonatos menos visados, como MLS, Liga Saudita e Campeonato Colombiano. Quase ninguém estuda essas ligas, e é aí que quem olha os confrontos ganha vantagem."
 
 ## Perguntas frequentes
 
