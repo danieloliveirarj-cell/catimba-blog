@@ -74,6 +74,8 @@ Nos dias sem rodada, o Zuken segue jogando fantasy nas ligas que acha atrativas,
 
 Esse raciocínio de partir dos confrontos do dia é o que move o [Catimba Fantasy](/fantasy/). Nele, cada data com jogos vira uma sala: você monta o time com os jogadores das partidas do dia, escolhe o capitão, que pontua 1,5×, e acompanha a pontuação ao vivo. O Catimba é um fantasy game de futebol brasileiro no ar há 10 anos, desde 2016. [Conheça o Catimba Fantasy](/blog/catimba-fantasy).
 
+> "Nos dias sem rodada, o Catimba Fantasy é um bom treino para o mesmo raciocínio do Cartola: olho os confrontos, monto o time e escolho o capitão. E já descubro na mesma noite se acertei."
+
 ## Perguntas frequentes
 
 ### Quem é o Cartoleiro Zuken?
