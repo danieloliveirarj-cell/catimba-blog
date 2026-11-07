@@ -4,13 +4,13 @@ titulo_seo: "Catimba Fantasy: o fantasy de futebol além do Brasileirão"
 descricao: "Conheça o Catimba Fantasy: monte seu time com os jogos do dia, do Brasileirão à Libertadores e aos europeus. Veja como funciona, a pontuação e as ligas."
 slug: catimba-fantasy
 data: 2026-10-29
-atualizado: 2026-10-29
+atualizado: 2026-11-06
 autor: Equipe Catimba
 capa: catimba-fantasy.jpg
 rascunho: false
 ---
 
-Nos últimos dois anos, os fantasy games de disputa rápida que existiam no Brasil deixaram de operar: o modo rápido do Cartola encerrou em 2024 e um fantasy diário encerrou em 2026. Nesse cenário, o **Catimba Fantasy** segue no ar, com um jogo próprio: escalação por sala, ligas entre cartoleiros e disputas que vão muito além do Brasileirão.
+O **Catimba Fantasy** é o fantasy dos jogos do dia, com um jogo próprio: escalação por sala, ligas entre cartoleiros e disputas que vão muito além do Brasileirão.
 
 ## O FANTASY QUE NÃO PARA QUANDO A RODADA ACABA
 
@@ -55,6 +55,10 @@ Com partidas de vários campeonatos ao longo da semana, o Catimba Fantasy junta 
 Em uma década, o Catimba viu muita coisa mudar no mundo dos fantasy games: plataformas novas chegaram, empresas grandes entraram na disputa, concorrentes saíram e até as regras do setor mudaram.
 
 E o Catimba continuou firme, com a mesma essência: disputas entre cartoleiros, regras claras e muita competição. São **10 anos de história**, muitas rodadas disputadas e uma paixão pelo fantasy que continua mais viva do que nunca.
+
+## QUEM FAZ O CATIMBA
+
+O Catimba é feito pela equipe do Catimba, no ar desde 2016. Antes de jogar, leia os [Termos](/termos) e a página de [Jogo responsável](/jogo-responsavel). Mais sobre a empresa em [Sobre o Catimba](/sobre).
 
 ## PERGUNTAS FREQUENTES
 

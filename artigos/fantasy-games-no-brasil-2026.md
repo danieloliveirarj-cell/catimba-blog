@@ -4,7 +4,7 @@ titulo_seo: "Fantasy games no Brasil em 2026: lista e como escolher"
 descricao: "Conheça os principais fantasy games disponíveis no Brasil em 2026, do futebol à Fórmula 1, e veja como escolher entre rodada, jogos do dia e ligas."
 slug: fantasy-games-no-brasil-2026
 data: 2026-10-31
-atualizado: 2026-10-31
+atualizado: 2026-11-06
 autor: Equipe Catimba
 capa: fantasy-games-no-brasil-2026.jpg
 rascunho: false
@@ -12,7 +12,7 @@ rascunho: false
 
 Fantasy game é o jogo em que você monta um time com atletas reais e pontua conforme o desempenho deles nas partidas: gol, assistência, desarme, defesa. No Brasil, o formato ficou famoso com o Cartola, mas hoje existem opções para quase todo calendário e esporte. Reunimos aqui os principais **fantasy games disponíveis no Brasil em 2026** e o que observar antes de escolher.
 
-Este blog é do **Catimba**, fantasy game de futebol brasileiro no ar há 10 anos, desde 2016. Por isso, ele aparece primeiro na lista. Os demais estão descritos com o que cada um oferece.
+Este blog é do **Catimba**, fantasy game de futebol brasileiro no ar há 10 anos, desde 2016. Por isso, ele aparece primeiro na lista. Os demais estão descritos com o que cada um oferece, a partir das informações públicas de cada jogo em outubro de 2026.
 
 ## Como escolher um fantasy game
 
@@ -64,9 +64,9 @@ A UEFA mantém fantasy games oficiais das suas competições, como a Champions L
 - **NFL:** fantasy de futebol americano, com ligas na plataforma oficial da NFL e na ESPN.
 - **Fórmula 1:** o F1 Fantasy oficial, em que você escolhe pilotos e equipes dentro de um orçamento a cada corrida.
 
-## Fantasy games que saíram do ar
+## Antes de escolher, confira o site de cada jogo
 
-Algumas listas antigas ainda citam jogos que não existem mais. O **Cartola Express**, modo rápido do Cartola, encerrou em 2024. O fantasy diário do **Rei do Pitaco** encerrou em 2026. Quem procura disputas com os jogos de cada dia hoje encontra esse formato no Catimba Fantasy.
+Modos e campeonatos mudam de uma temporada pra outra, e listas antigas nem sempre acompanham. Antes de se cadastrar em qualquer fantasy game, confira no site oficial o que está disponível hoje, as regras e a idade mínima.
 
 ## Rodada ou jogos do dia: qual combina com você?
 
@@ -83,10 +83,6 @@ Muitos cartoleiros jogam os dois: o Cartola na rodada e o Catimba Fantasy nos di
 ### Qual é o fantasy game de futebol mais conhecido do Brasil?
 
 O Cartola, do Grupo Globo, que segue as rodadas do Brasileirão desde 2005.
-
-### O Cartola Express e o Rei do Pitaco ainda existem?
-
-Não. O Cartola Express encerrou em 2024 e o fantasy diário do Rei do Pitaco encerrou em 2026.
 
 ### Existe fantasy game com os jogos do dia?
 

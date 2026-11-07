@@ -4,7 +4,7 @@ titulo_seo: "Mercado do Cartola e valorização: o método do HJP Sports"
 descricao: "Helton José de Paula, do HJP Sports, explica como acompanha o mercado do Cartola, quando escalar pra valorizar ou pontuar e como escolhe o capitão."
 slug: mercado-do-cartola-hjp-sports
 data: 2026-11-01
-atualizado: 2026-11-01
+atualizado: 2026-11-06
 autor: Equipe Catimba
 capa: mercado-do-cartola-hjp-sports.jpg
 rascunho: false
@@ -40,7 +40,7 @@ O plano dele tem três fases:
 2. **Rodadas 6 a 10:** equilíbrio de cerca de 40% em valorização e 60% em pontuação, ajustado a cada rodada.
 3. **Da 11ª rodada em diante:** com a meta de pelo menos 150 cartoletas batida, o foco passa a ser só pontuação.
 
-"Não é uma regra fixa. Pode variar de um time pro outro. O objetivo é chegar a, no mínimo, 150 cartoletas pra seguir competitivo." O resultado aparece: há quatro temporadas, os times de valorização dele terminam entre os 200 melhores do Brasil em cartoletas.
+"Não é uma regra fixa. Pode variar de um time pro outro. O objetivo é chegar a, no mínimo, 150 cartoletas pra seguir competitivo." Segundo ele, o resultado aparece: há quatro temporadas, os times de valorização dele terminam entre os 200 melhores do Brasil em cartoletas.
 
 ## O passo a passo da escalação
 
@@ -58,7 +58,7 @@ Querer mitar desde a 1ª rodada, sem estratégia pra temporada, e escalar só os
 
 ### O jogador da vez
 
-A indicação é o Samuel Lino, do Flamengo, que tem se destacado no segundo turno. "Mesmo quando não marca nem dá assistência, ele entrega uma boa pontuação básica." Pro Helton, depender só do gol é um risco, e quem contribui com outros scouts faz diferença na escalação. É a mesma indicação de outro entrevistado da série, o [Espião do Cartola](/blog/scouts-cartola-espiao-do-cartola).
+A indicação, feita no começo de novembro de 2026, é o Samuel Lino, do Flamengo, que tem se destacado no segundo turno do Brasileirão. "Mesmo quando não marca nem dá assistência, ele entrega uma boa pontuação básica." Pro Helton, depender só do gol é um risco, e quem contribui com outros scouts faz diferença na escalação. É a mesma indicação de outro entrevistado da série, o [Espião do Cartola](/blog/scouts-cartola-espiao-do-cartola).
 
 ## Fantasy além da rodada: o Catimba Fantasy
 
@@ -85,6 +85,12 @@ Cruzando notícias dos clubes e setoristas, estatísticas de confronto e ferrame
 ### Dá pra jogar fantasy nos dias sem rodada do Cartola?
 
 Dá. No Catimba Fantasy, cada data com jogos vira uma sala, com ligas de fantasy praticamente todos os dias. Proibido para menores de 18 anos.
+
+## Sobre esta entrevista
+
+Entrevista feita pela equipe do Catimba por WhatsApp, entre outubro e novembro de 2026, com respostas de Helton José de Paula.
+
+As indicações de jogador refletem o momento da entrevista e podem mudar a cada rodada. Transparência: o HJP Sports organiza ligas no Catimba Fantasy.
 
 ## Onde seguir o HJP Sports
 
