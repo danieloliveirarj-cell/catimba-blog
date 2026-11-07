@@ -4,7 +4,7 @@ titulo_seo: "Como jogar fantasy de futebol: guia passo a passo"
 descricao: "Aprenda como jogar fantasy de futebol: escolha a sala, monte o time, defina o capitão e entenda os scouts. Guia pra iniciantes e pra quem vem do Cartola."
 slug: como-jogar-fantasy-de-futebol
 data: 2026-11-01
-atualizado: 2026-11-01
+atualizado: 2026-11-06
 autor: Equipe Catimba
 capa: como-jogar-fantasy-de-futebol.jpg
 rascunho: false
@@ -29,7 +29,7 @@ Quem joga Cartola já conhece a lógica: monta o time pra rodada do Brasileirão
 | Orçamento | Cartoletas que sobem e descem | Igual pra todos em cada sala, sem valorização |
 | Campeonatos | Brasileirão Série A | Brasileirão, Copa do Brasil, Champions League e ligas da Europa e das Américas |
 
-No fantasy diário, cada sala reúne de 2 a 8 jogos do mesmo dia ou horário. Desde que o Cartola Express encerrou, em 2024, esse é o jeito de seguir jogando no meio da semana, quando tem Copa do Brasil, Champions League ou rodada na Europa.
+No fantasy diário, cada sala reúne de 2 a 8 jogos do mesmo dia ou horário. É o jeito de seguir jogando no meio da semana, quando tem Copa do Brasil, Champions League ou rodada na Europa.
 
 ## Como jogar fantasy de futebol: o passo a passo
 
@@ -67,7 +67,7 @@ A pontuação vem dos **scouts**, os lances registrados de cada jogador. Os prin
 - **Cartão vermelho:** −3
 - **Gol contra:** −3
 
-Também contam finalizações, faltas sofridas e cometidas, interceptações, impedimentos e gols sofridos. A tabela completa fica na aba de regras de cada sala. Os scouts valem no tempo normal e na prorrogação; disputa de pênaltis não conta.
+Também contam finalizações, faltas sofridas e cometidas, interceptações, impedimentos e gols sofridos. A tabela completa fica na aba de regras de cada sala, e ela vale sobre esta lista se houver diferença (valores conferidos em novembro de 2026). Os scouts valem no tempo normal e na prorrogação; disputa de pênaltis não conta.
 
 Repare em duas coisas. Primeiro: o jogo sem sofrer gol vale pro goleiro, os zagueiros e os laterais do mesmo time ao mesmo tempo, então escalar a defesa de um time que não costuma levar gol é uma estratégia, não um palpite. Segundo: o desarme é constante. Um volante ou lateral que desarma muito garante pontos mesmo quando o time não marca. É o que o [Espião do Cartola explica nos scouts do Cartola](/blog/scouts-cartola-espiao-do-cartola).
 
@@ -90,6 +90,10 @@ Repare em duas coisas. Primeiro: o jogo sem sofrer gol vale pro goleiro, os zagu
 ## Ligas de Cartola e ligas de fantasy: dá pra jogar as duas
 
 Muita gente mantém as ligas de Cartola na rodada do fim de semana e usa as ligas de fantasy do Catimba nos outros dias. Dá pra montar mais de um time na mesma sala, testar estratégias diferentes e jogar em quantas salas quiser, respeitando as regras de cada liga. Pra ver outras opções do mercado, leia também o guia de [fantasy games no Brasil em 2026](/blog/fantasy-games-no-brasil-2026).
+
+## Jogue com responsabilidade
+
+O Catimba Fantasy é para maiores de 18 anos. Antes de começar, leia os [Termos](/termos) e a página de [Jogo responsável](/jogo-responsavel).
 
 ## Perguntas frequentes
 

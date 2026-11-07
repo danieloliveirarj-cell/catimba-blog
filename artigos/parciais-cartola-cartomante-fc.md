@@ -4,7 +4,7 @@ titulo_seo: "Parciais do Cartola e IA: o método da Cartomante FC"
 descricao: "Leandro Rezende, da Cartomante FC, explica como usa estatística, IA e as parciais do Cartola pra escalar, escolher o capitão e jogar fantasy todo dia."
 slug: parciais-cartola-cartomante-fc
 data: 2026-10-31
-atualizado: 2026-11-02
+atualizado: 2026-11-06
 autor: Equipe Catimba
 capa: parciais-cartola-cartomante-fc.jpg
 rascunho: false
@@ -18,7 +18,7 @@ Leandro Rezende, o Leandrinho, é de Ouro Branco, em Minas Gerais. Analista de s
 
 O projeto cresceu um passo por ano. Em 2016 vieram as dicas por e-mail. Em 2017, a primeira plataforma de estatísticas. Em 2018, o primeiro BI do Cartola. Em 2020, o aplicativo para iOS e Android. O canal no YouTube chegou em 2021.
 
-Ao lado dele está o Petti, como é conhecido Anderson Seabra Pettinati, também de Ouro Branco. Jornalista e apresentador apaixonado por estatística, ele joga Cartola desde 2011, quando começou em ligas com a turma da Fiat, e soma mais de 22 anos de experiência em comunicação. Na Cartomante, já fez centenas de lives ajudando cartoleiros. Segundo a Cartomante, mais de 150 mil cartoleiros já usaram o aplicativo em 10 anos de projeto.
+Ao lado dele está o Petti, como é conhecido Anderson Seabra Pettinati, também de Ouro Branco. Jornalista e apresentador apaixonado por estatística, ele joga Cartola desde 2011, quando começou em ligas com a turma da Fiat, e soma mais de 22 anos de experiência em comunicação. Na Cartomante, já fez centenas de lives ajudando cartoleiros. Segundo a própria Cartomante, mais de 150 mil cartoleiros já usaram o aplicativo em 10 anos de projeto.
 
 ## Estatística e inteligência artificial no Cartola, sem complicação
 
@@ -69,7 +69,7 @@ O Petti aponta na mesma direção: "O maior erro é escalar com a emoção e nã
 
 ### O jogador da vez
 
-A indicação do Leandro é o Arrascaeta. "O que muda uma rodada no Cartola é o gol. Um gol vale 8 pontos, e no capitão vira 12." Por isso ele olha primeiro pra quem participa dos gols, marcando ou dando assistência.
+A indicação do Leandro, feita no fim de outubro de 2026, é o Arrascaeta. "O que muda uma rodada no Cartola é o gol. Um gol vale 8 pontos, e no capitão vira 12." Por isso ele olha primeiro pra quem participa dos gols, marcando ou dando assistência.
 
 ## Fantasy além da rodada: o Catimba Fantasy
 
@@ -96,6 +96,12 @@ Pra acompanhar em tempo real a pontuação do seu time e das suas ligas de Carto
 ### Dá pra jogar fantasy nos dias sem rodada do Cartola?
 
 Dá. No Catimba Fantasy, cada data com jogos vira uma sala: você monta o time com os jogos do dia e acompanha a pontuação ao vivo. Proibido para menores de 18 anos.
+
+## Sobre esta entrevista
+
+Entrevista feita pela equipe do Catimba por WhatsApp, em outubro de 2026, com respostas de Leandro Rezende e Petti; os números da Cartomante são informados por ela.
+
+As indicações de jogador refletem o momento da entrevista e podem mudar a cada rodada. Transparência: a Cartomante FC organiza ligas no Catimba Fantasy e tem integração com ele desde 2024.
 
 ## Onde seguir a Cartomante FC
 

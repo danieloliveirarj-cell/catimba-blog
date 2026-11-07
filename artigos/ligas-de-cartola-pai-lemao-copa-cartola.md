@@ -4,7 +4,7 @@ titulo_seo: "Ligas de Cartola: a história e o método do Pai Lemão"
 descricao: "Pai Lemão, do Copa Cartola, conta como uma liga de faculdade virou canal nacional e explica como joga as ligas de Cartola, da clássica ao mata-mata."
 slug: ligas-de-cartola-pai-lemao-copa-cartola
 data: 2026-11-05
-atualizado: 2026-11-05
+atualizado: 2026-11-06
 autor: Equipe Catimba
 capa: ligas-de-cartola-pai-lemao-copa-cartola.jpg
 rascunho: false
@@ -20,7 +20,7 @@ Foi no mesmo ano que começou a jogar Cartola. Na faculdade, virou brincadeira c
 
 ## Como uma liga de faculdade virou o Copa Cartola
 
-O nome Copa Cartola surgiu em 2015, numa liga entre várias turmas da faculdade, com 48 participantes. Foi ali que Lucas passou a levar o jogo a sério. Venceu a liga e terminou aquele ano entre os 100 melhores do Brasil. Os amigos espalharam o resultado e, na temporada seguinte, todo mundo queria competir com ele.
+O nome Copa Cartola surgiu em 2015, numa liga entre várias turmas da faculdade, com 48 participantes. Foi ali que Lucas passou a levar o jogo a sério. Venceu a liga e, segundo ele, terminou aquele ano entre os 100 melhores do Brasil. Os amigos espalharam o resultado e, na temporada seguinte, todo mundo queria competir com ele.
 
 Ele se formou, os colegas se afastaram, mas a liga continuou. Chegou a cidades vizinhas, como Serrana, Cravinhos, Franca e Jardinópolis, e virou referência na região. Lucas sempre foi o organizador, das inscrições à planilha de times. Em 2016, já eram mais de 100 inscritos.
 
@@ -40,7 +40,7 @@ Vieram as lives, com gente do país inteiro assistindo.
 
 > "Era um sonho que eu jamais imaginaria acontecer."
 
-Em 2019, ele apareceu de novo entre os 100 melhores do Brasil, e o canal chegou a 18 mil inscritos em um ano. Depois veio a equipe, que hoje inclui o Helton José de Paula, do [HJP Sports, que explicou o mercado do Cartola](/blog/mercado-do-cartola-hjp-sports) nesta mesma série. O grupo também investiu em plataformas de estatísticas e já se prepara para a temporada de 2027.
+Em 2019, conta ele, apareceu de novo entre os 100 melhores do Brasil, e o canal chegou a 18 mil inscritos em um ano. Depois veio a equipe, que hoje inclui o Helton José de Paula, do [HJP Sports, que explicou o mercado do Cartola](/blog/mercado-do-cartola-hjp-sports) nesta mesma série. O grupo também investiu em plataformas de estatísticas e já se prepara para a temporada de 2027.
 
 ## Ligas de Cartola: a mesma estratégia na clássica e no mata-mata
 
@@ -65,23 +65,15 @@ Escalar na emoção. O exemplo que ele dá é clássico: o cartoleiro faz 100 po
 
 Outro erro comum, na liga clássica, é ousar em várias peças para tirar pontos e acabar cada vez mais longe da ponta. Com capitão e reserva de luxo, diz ele, também não dá mais para pensar só nos 11: "Você não escala só um time, você tem que adotar estratégias com essas peças".
 
-### Como escolher o capitão
-
-O capitão segue a mesma lógica do resto do time: regularidade. Mas, entre os jogadores regulares, o Pai Lemão prefere quem também tem chance real de gol, porque é o scout que mais pesa quando a pontuação é multiplicada.
-
-> "Capitão tem que ser regular, mas com possibilidade de gol. Se não marcar, ele pontua do mesmo jeito. Se marcar, faz a diferença na rodada."
-
 ### Os jogadores que ele indica
 
-O nome de sempre é o Arrascaeta, "o mito supremo de quem joga Cartola há anos". Nesta temporada, porém, o mais indicado por ele é o Samuel Lino: "É jogador nato pra Cartola, pontua com vários scouts". Lino também foi a escolha do [Espião do Cartola](/blog/scouts-cartola-espiao-do-cartola) e do HJP Sports.
+O nome de sempre é o Arrascaeta, "o mito supremo de quem joga Cartola há anos". Nesta temporada, porém, o mais indicado por ele, em novembro de 2026, é o Samuel Lino: "É jogador nato pra Cartola, pontua com vários scouts". Lino também foi a escolha do [Espião do Cartola](/blog/scouts-cartola-espiao-do-cartola) e do HJP Sports.
 
 ## Fantasy além da rodada
 
 Quem joga ligas de Cartola sabe que a semana tem dias sem rodada. É aí que entra o [Catimba Fantasy](/fantasy/): cada data com jogos vira uma sala, você monta o time com os jogadores das partidas do dia, escolhe o capitão, que pontua 1,5×, e acompanha a pontuação ao vivo. Tem sala de Libertadores, Copa do Brasil e Champions League, e também de campeonatos menos visados, como MLS, Liga Saudita e Campeonato Colombiano.
 
 O Catimba é um fantasy game de futebol brasileiro no ar há 10 anos, desde 2016. [Conheça o Catimba Fantasy](/blog/catimba-fantasy).
-
-> "Jogo o Catimba Fantasy todos os dias. Libertadores, Copa do Brasil e Champions, claro, mas também os campeonatos menos visados, como MLS, Liga Saudita e Campeonato Colombiano. Quase ninguém estuda essas ligas, e é aí que quem olha os confrontos ganha vantagem."
 
 ## Perguntas frequentes
 
@@ -100,6 +92,12 @@ Na copa, ou liga mata-mata, você enfrenta um adversário por vez: quem pontua m
 ### Dá para jogar ligas de fantasy nos dias sem rodada do Cartola?
 
 Dá. No Catimba Fantasy, cada data com jogos vira uma sala, com ligas de fantasy praticamente todos os dias. Proibido para menores de 18 anos.
+
+## Sobre esta entrevista
+
+Entrevista feita pela equipe do Catimba por WhatsApp, em novembro de 2026, com respostas de Lucas Casadio Orlandini. As fotos foram cedidas por ele.
+
+As indicações de jogador refletem o momento da entrevista e podem mudar a cada rodada.
 
 ## Onde seguir o Pai Lemão
 

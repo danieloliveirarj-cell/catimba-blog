@@ -4,7 +4,7 @@ titulo_seo: "Scouts do Cartola: o método do Espião do Cartola"
 descricao: "Victor Ribeiro Barbosa, do Espião do Cartola, explica os scouts do Cartola que o cartoleiro subestima, o mito oculto, o capitão e o erro do clubismo."
 slug: scouts-cartola-espiao-do-cartola
 data: 2026-10-31
-atualizado: 2026-10-31
+atualizado: 2026-11-06
 autor: Equipe Catimba
 capa: scouts-cartola-espiao-do-cartola.jpg
 rascunho: false
@@ -62,7 +62,7 @@ Por isso, ele separa os dois capitães mais escalados da rodada e decide entre e
 
 ### O jogador da vez
 
-A indicação do Victor é o Samuel Lino, do Flamengo. Ele junta uma média básica alta, a pontuação que o jogador produz sem gols e assistências, com muitos gols e assistências. "A fase do Samuel Lino é fantástica. Ele tem sido um nome fundamental na arrancada do Flamengo."
+A indicação do Victor, feita no fim de outubro de 2026, é o Samuel Lino, do Flamengo. Ele junta uma média básica alta, a pontuação que o jogador produz sem gols e assistências, com muitos gols e assistências. "A fase do Samuel Lino é fantástica. Ele tem sido um nome fundamental na arrancada do Flamengo."
 
 ## Fantasy além da rodada: o Catimba Fantasy
 
@@ -89,6 +89,12 @@ Segundo o Espião do Cartola, o desarme. Laterais e meias com muitos desarmes co
 ### Dá pra jogar fantasy nos dias sem rodada do Cartola?
 
 Dá. No Catimba Fantasy, cada data com jogos vira uma sala, com ligas de fantasy praticamente todos os dias. Proibido para menores de 18 anos.
+
+## Sobre esta entrevista
+
+Entrevista feita pela equipe do Catimba por WhatsApp, em outubro de 2026, com respostas de Victor Ribeiro Barbosa.
+
+As indicações de jogador refletem o momento da entrevista e podem mudar a cada rodada.
 
 ## Onde seguir o Espião do Cartola
 
