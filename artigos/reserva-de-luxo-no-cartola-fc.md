@@ -7,7 +7,7 @@ data: 2026-11-09
 atualizado: 2026-11-09
 autor: Equipe Catimba
 capa: reserva-de-luxo-no-cartola-fc.jpg
-rascunho: true
+rascunho: false
 ---
 
 O **reserva de luxo** chegou ao Cartola FC em 2025 e virou assunto de toda rodada: afinal, quando o jogador do banco entra no lugar de um titular? Junto com ele vieram valores novos para **desarmes** e **defesas**, que mudaram a forma de escolher laterais, volantes e goleiros. Este guia explica o que continua valendo em 2026, o que conseguimos confirmar com fonte e o que preferimos não afirmar. O Catimba é um jogo independente e não tem qualquer ligação com a Globo; o Cartola FC é marca dos respectivos donos.
@@ -34,7 +34,7 @@ Quando o recurso estreou, em março de 2025, o ge (Globo Esporte) publicou as re
 4. Se dois titulares empatarem na menor pontuação, abaixo da do reserva de luxo, o **capitão** tem prioridade para sair, e nesse caso conta a pontuação normal, sem o multiplicador do capitão.
 5. O reserva de luxo pode ser acionado mesmo com pontuação **negativa**, desde que seja maior que a de algum titular da posição.
 
-**Importante:** essas cinco regras vêm da cobertura de 2025. Não encontramos, em novembro de 2026, um regulamento oficial publicado que as repita ponto a ponto, e algumas fontes divergem em detalhes (por exemplo, se o reserva de luxo pode ser de qualquer posição). Por isso, antes de montar o time, confira a explicação dentro do app, na tela do reserva de luxo.
+**Importante:** essas regras vêm do tutorial oficial do ge de 12/03/2025. A matéria oficial de 13/01/2026 sobre o Cartola 2026 lista o reserva de luxo como recurso vigente, mas não repete as regras ponto a ponto. Fontes de terceiros divergem em detalhes (o ge diz que o reserva de luxo é **um só** no banco inteiro, e que ele substitui o titular da mesma posição de menor pontuação). Por isso, antes de montar o time, confira a explicação dentro do app, na tela do reserva de luxo.
 
 ## O reserva de luxo e o capitão
 
@@ -72,7 +72,8 @@ Para ver na prática como o desarme pesa nas rodadas, leia a entrevista do [Espi
 - **Dados oficiais do jogo:** consultamos a API aberta do Cartola (api.cartola.globo.com). Ela confirma que a temporada 2026 está em andamento (rodada 35 de 38) e fornece as pontuações por jogador das rodadas 33 e 34, com as quais calculamos os valores de desarme, defesa, gol, assistência e jogo sem sofrer gol.
 - **Site oficial:** o código do site cartola.globo.com traz a tela "como funciona o reserva de luxo" e o campo do reserva de luxo no time.
 - **Guia de 2026:** o guia de rodada da Oficina da Net (oficinadanet.com.br) para a temporada 2026 afirma que scouts e pontuação seguem iguais aos de 2025 e descreve o reserva de luxo como o suplente que troca com o titular de menor pontuação.
-- **Regras de ativação:** vêm da matéria do ge de 12/03/2025, republicada pelo Itaporã News. Não encontramos regulamento oficial de 2026 que as repita, e a página de ajuda da Globo não abriu para nós.
+- **Regras de ativação:** vêm do tutorial oficial do ge "O que é e como funciona o reserva de luxo no Cartola", de 12/03/2025. A matéria oficial de 13/01/2026 sobre o Cartola 2026 mantém o recurso e diz que o banco de reservas segue na mesma dinâmica dos últimos anos. A central de ajuda da Globo não abriu para nós.
+- **Tabela de scouts:** a matéria oficial do ge de 17/03/2025 traz desarme em 1,5 e defesa em 1,3, e a de 13/01/2026 diz que não houve alteração nos critérios de scouts e pontuações.
 - **Não confirmado:** o multiplicador de 1,5 no reserva que assume a braçadeira em 2026 e se a posição do reserva de luxo é livre.
 
 ## Perguntas frequentes
