@@ -1,7 +1,7 @@
 # Blog do Catimba — conteúdo
 
 Os artigos de **catimbascores.com.br/blog**. Cada artigo é um `.md` em [`artigos/`](artigos/) com a capa ao lado.
-Merge na `main` = no ar em até 5 minutos, sem publicar o site: o site lê esta pasta sozinho.
+Merge na `main` guarda o artigo aqui. **Na AWS (catimbascores.com.br) o artigo não vai ao ar sozinho**: veja [Publicar no site (AWS)](#publicar-no-site-aws).
 
 ## Escrever
 
@@ -47,8 +47,17 @@ número de usuários; lembre do +18 quando falar em jogar.
 4. O CI gera as versões leves da capa (AVIF/WebP) e sobe no próprio PR (commit "capas: versões leves"). Aí aparece
    **"Approve workflows to run"** no PR: clique pra rodar a checagem no commit novo. Vermelho = abra o log: diz o arquivo,
    a linha e o que corrigir.
-5. Verde → **Merge**. Em até 5 min o artigo está no site (a lista, o artigo e o sitemap).
+5. Verde → **Merge**. Isso só guarda o artigo neste repositório. Para ele entrar no site, siga [Publicar no site (AWS)](#publicar-no-site-aws).
 
 Conferir no computador: `npm run checar` e `npm test` (Node 22, sem instalar nada); capas: `npm run capas` (Python + Pillow).
 
 A pasta `validacao/` e o `scripts/checar.mjs` são cópia exata dos do site (o `validacao/ORIGEM.json` confere): não edite aqui.
+
+## Publicar no site (AWS)
+
+**Não existe "no ar em 5 minutos" na AWS.** O site lê a pasta de conteúdo do monorepo `front-bff` (não este repositório), e a borda só serve o endereço que está na lista do KVS (sem isso dá 404). O "5 min" valia só para a VPS antiga (`BLOG_FONTE=github`).
+
+1. **Merge aqui** (os passos acima).
+2. No `front-bff`, na raiz: `node scripts/sincronizar-blog.mjs --conferir` mostra o que falta; `node scripts/sincronizar-blog.mjs --copiar` copia o `.md`, a capa e as versões AVIF/WebP (nunca rascunho) e imprime o roteiro seguinte (build, `sondar`, `gerar-tabelas`, `kvs.json`).
+3. Commit e MR no `front-bff` e no `api-bff` (o BFF gera o sitemap a partir da própria cópia da pasta) e **merge**: o pipeline aplica o KVS na borda, sobe o `dist` e roda a fumaça.
+4. Conferir no ar: `/blog/<slug>` dá 200 sem `noindex`, `/blog/<slug>/` dá 301, o card aparece em `/blog`, o slug está em `/inicio/sitemap.xml` (cache de 1 h) e o `versao.json` tem o sha novo.
