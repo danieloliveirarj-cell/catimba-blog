@@ -7,7 +7,7 @@ data: 2026-11-09
 atualizado: 2026-11-09
 autor: Equipe Catimba
 capa: tipos-de-ligas-do-cartola-fc.jpg
-rascunho: true
+rascunho: false
 ---
 
 Quem começa no Cartola FC logo descobre que o jogo não é só montar o time: é escolher **onde** competir. As ligas decidem contra quem você joga, por quanto tempo e que tipo de estratégia faz sentido. Este guia explica os **tipos de ligas do Cartola FC**, deixa claro o que conseguimos confirmar em fonte oficial e o que você deve conferir no app antes de decidir. O foco aqui é formato, estratégia e diversão com os amigos.
@@ -38,7 +38,7 @@ Isso muda a cabeça de quem escala. Em um confronto direto, uma peça mais ousad
 
 ### Liga de pontos corridos
 
-Todos enfrentam todos, e a classificação segue a lógica do futebol: vitória vale 3 pontos, empate vale 1 e derrota vale 0. Segundo o tutorial oficial de 2025, a liga pode ter turno único ou turno e returno, e o limite é de **20 times**. Nesse formato, a escolha do capitão é obrigatória.
+Todos enfrentam todos, e a classificação segue a lógica do futebol: vitória vale 3 pontos, empate vale 1 e derrota vale 0. Segundo o tutorial oficial de 2025, a liga pode ter turno único ou turno e returno. Nesse formato, a escolha do capitão é obrigatória. O limite de participantes não bate entre as matérias oficiais: o tutorial "Como jogar" cita **até 20 times**, e a matéria sobre ligas (21/03/2025) cita de **4 a 38**. Veja o limite na tela de criação.
 
 ## Ligas com ou sem capitão
 
@@ -59,9 +59,9 @@ Os limites mudam e as fontes oficiais não batem entre si. Veja o que cada uma d
 | Fonte oficial | Clássica | Mata-mata | Pontos corridos |
 |---|---|---|---|
 | Central de ajuda, atualizada em 13/03/2024 | FREE: 1 · PRO: até 10 | FREE: 3 · PRO: até 10 | FREE: 3 · PRO: até 10 |
-| Tutorial ge, 13/03/2025 | FREE: 1 · PRO: até 10 | FREE: 5 · PRO: até 10 | FREE: 3 · PRO: até 10 |
+| Tutorial ge, 13/03/2025 e matéria de ligas, 21/03/2025 | FREE: 1 · PRO: até 10 | FREE: 5 · PRO: até 10 | FREE: 3 · PRO: até 10 |
 
-O que dá para afirmar com segurança: no FREE, a liga clássica é **uma**; no PRO, os textos oficiais de 2024 e 2025 falam em até 10 de cada tipo. Para 2026, a matéria oficial do ge de 21/01/2026 diz que o cartoleiro PRO pode criar e jogar **até 37 ligas** somando clássica, mata-mata e pontos corridos, sem detalhar quanto vale para cada tipo. O limite de mata-mata no FREE (3 ou 5) e a divisão exata do PRO em 2026 **não conseguimos confirmar**. Confira na tela de Competições antes de montar o seu calendário de ligas.
+O que dá para afirmar com segurança: no FREE, a liga clássica é **uma**; no PRO, os textos oficiais de 2024 e 2025 falam em até 10 de cada tipo. Para o mata-mata no FREE, o número de **5** aparece nos textos oficiais de 2025 e nos dados abertos do Cartola em 09/11/2026 (a central de ajuda de 2024 falava em 3). Para 2026, a matéria oficial do ge de 21/01/2026 diz que o cartoleiro PRO pode criar e jogar **até 37 ligas** somando clássica, mata-mata e pontos corridos, sem detalhar quanto vale para cada tipo: essa divisão **não conseguimos confirmar**. Confira na tela de Competições antes de montar o seu calendário de ligas.
 
 Outra mudança oficial de 2026: o desafio de duplas não está mais disponível.
 
@@ -77,7 +77,7 @@ Em vez de perguntar "qual a melhor liga?", pergunte como você gosta de jogar.
 
 1. **Gosta de acompanhar a temporada inteira?** A clássica recompensa o ritmo. Pense em regularidade e em [valorização](/blog/valorizacao-no-cartola-fc) para manter o patrimônio saudável.
 2. **Gosta de rivalidade direta?** O mata-mata transforma a rodada em uma decisão. Escalar com atenção ao confronto vale mais do que olhar o ranking geral.
-3. **Quer uma tabela estilo campeonato?** Pontos corridos reúnem o grupo de amigos por boa parte do ano, com ida e volta e até 20 times.
+3. **Quer uma tabela estilo campeonato?** Pontos corridos reúnem o grupo de amigos por boa parte do ano, com ida e volta.
 4. **Não quer o peso do capitão?** Escolha uma liga sem capitão no momento da criação.
 5. **Quer só se divertir com os amigos?** Uma liga fechada ou moderada, com poucos nomes conhecidos, costuma ser a mais gostosa de acompanhar.
 
@@ -100,7 +100,7 @@ Quer saber mais? Leia [o que é o Catimba Fantasy](/blog/catimba-fantasy). Proib
 
 ### Quais são os tipos de liga do Cartola FC?
 
-Segundo o tutorial oficial de 2025, são três: clássica (pontos acumulados na temporada), mata-mata (confrontos eliminatórios entre 4, 8, 16 ou 32 times) e pontos corridos (todos contra todos, com limite de 20 times).
+Segundo o tutorial oficial de 2025, são três: clássica (pontos acumulados na temporada), mata-mata (confrontos eliminatórios entre 4, 8, 16 ou 32 times) e pontos corridos (todos contra todos, com vitória valendo 3 pontos e empate 1).
 
 ### Quantas ligas posso jogar no Cartola FC?
 
@@ -125,7 +125,8 @@ Conferência feita em 09/11/2026 nas fontes abaixo. Onde o texto diz que não co
 - Central de ajuda oficial, "Como criar ligas no Cartola?" (ajuda.globo/cartola/app/jogo/faq/como-criar-ligas-no-cartola.ghtml), publicada em 04/05/2022 e atualizada em 13/03/2024: tipos de liga, privacidade e limites.
 - Tutorial oficial do ge, "Como jogar Cartola?" (ge.globo.com/cartola/tutoriais), 13/03/2025: três formatos, pontos corridos, liga sem capitão, limites FREE e PRO.
 - Matéria oficial do ge sobre o Cartola PRO 2026 (ge.globo.com/cartola/pro), 21/01/2026: "até 37 ligas" e fim do desafio de duplas.
-- Não confirmados: página oficial das ligas automáticas, limite de mata-mata no FREE e divisão por tipo do PRO em 2026. A página de regulamento do cartola.globo.com não pôde ser lida pela nossa checagem.
+- Matéria oficial do ge sobre ligas, "Cartola: o que são as ligas e como participar" (ge.globo.com/cartola/tutoriais), 21/03/2025: formatos, privacidade e limites por plano. Dados abertos do Cartola (api.cartola.globo.com/mercado/status), 09/11/2026: limite de mata-mata no FREE.
+- Não confirmados: página oficial das ligas automáticas por estado ou clube, divisão por tipo do PRO em 2026 e o limite de participantes do pontos corridos (as matérias oficiais divergem). O regulamento das promoções em cartola.globo.com não foi lido.
 
 As regras do Cartola são da Globo e podem mudar a cada temporada. Antes de decidir, confira no app.
 

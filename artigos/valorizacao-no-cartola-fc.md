@@ -7,7 +7,7 @@ data: 2026-11-09
 atualizado: 2026-11-09
 autor: Equipe Catimba
 capa: valorizacao-no-cartola-fc.jpg
-rascunho: true
+rascunho: false
 ---
 
 Todo cartoleiro já montou o time dos sonhos e viu que o saldo não fechou. É aí que entra a **valorização no Cartola FC**: o preço de cada atleta sobe ou desce a cada rodada, e quem entende esse movimento tem mais **cartoletas** pra escalar quem quiser.
@@ -18,7 +18,7 @@ Este guia explica o conceito rodada a rodada e diz o que conseguimos confirmar e
 
 **Cartoleta** (C$) é a unidade de valor do Cartola FC. Você usa cartoletas pra "comprar" os 11 jogadores e o técnico do seu time; o banco de reservas não entra nessa conta. Cada atleta tem um preço, e a soma da sua escalação precisa caber no seu **patrimônio**, o saldo que você tem na hora de escalar.
 
-O saldo inicial já mudou de acordo com a temporada e a fonte. O tutorial do ge de 2023 fala em C$ 100; o de 2025 fala em C$ 110. Já a API pública do Cartola indicava **C$ 100** em 09/11/2026. Como a edição especial da Copa do Mundo teve um valor diferente, o número que vale é o que aparece na sua tela de escalação.
+Em 2026, segundo a matéria oficial do ge de 13/01/2026, **todos começam com 100 cartoletas**, o mesmo valor que a API pública do Cartola indicava em 09/11/2026. O saldo já variou entre temporadas (um tutorial de 2025 fala em C$ 110), então o número que vale é o que aparece na sua tela de escalação.
 
 ## Como o preço dos atletas varia
 
@@ -35,7 +35,7 @@ Quem assina o Cartola PRO vê a valorização e a desvalorização dos titulares
 
 **MPV** é a sigla pra "mínimo para valorizar": a pontuação que o atleta precisa fazer na rodada pra subir de preço. Abaixo dela, ele desvaloriza.
 
-A regra de cálculo não é divulgada pelo Cartola. O número que você vê vem de **ferramentas e sites de dicas**, que estimam o MPV. Por isso, trate o MPV como estimativa. O que dá pra dizer com segurança:
+A **fórmula do jogo não é divulgada**: o próprio Gato Mestre, do ge, trata a valorização como o algoritmo interno do Cartola. O MPV que você vê é uma **estimativa** do Gato Mestre (equipe de jornalistas e cientistas de dados da Globo), com margem de erro de cerca de 0,5 ponto para mais ou para menos. Assinantes do Cartola PRO veem o MPV completo; quem joga no plano gratuito vê só no primeiro card da lista. Sites de dicas também publicam o seu MPV, e cada um calcula de um jeito. O que dá pra dizer com segurança:
 
 - atletas mais baratos tendem a precisar de menos pontos pra valorizar;
 - atletas que mitaram na rodada anterior costumam ter MPV mais alto na rodada seguinte (observação de especialistas de 2026, não regra oficial);
@@ -109,12 +109,13 @@ Esta é a lista do que checamos e onde, com data de conferência **09/11/2026**:
 | Atleta valoriza ou desvaloriza conforme o desempenho | Confirmado | mesma página e [ge: como entrar no Cartola (2023)](https://ge.globo.com/cartola/tutoriais/noticia/2023/04/04/como-entrar-no-cartola-veja-o-passo-a-passo-para-criar-um-time-e-comecar-a-jogar.ghtml) |
 | Status do atleta (provável, dúvida, nulo, lesionado, suspenso) | Confirmado | mesmas páginas do ge |
 | Cartola PRO mostra valorização em tempo real nas parciais | Confirmado | mesmas páginas do ge |
-| Saldo inicial de C$ 100 | Parcial: a API indicava 100 em 09/11/2026; o ge de 2025 cita 110 | [API do Cartola: mercado/status](https://api.cartolafc.globo.com/mercado/status) |
+| Saldo inicial de C$ 100 em 2026 | Confirmado: matéria do ge de 13/01/2026 e API em 09/11/2026 (um tutorial de 2025 citava 110) | [ge: mercado aberto no Cartola 2026](https://ge.globo.com/cartola/noticia/2026/01/13/mercado-aberto-para-o-brasileirao-no-cartola-2026-saiba-como-jogar-e-criar-o-seu-time.ghtml) e [API do Cartola: mercado/status](https://api.cartolafc.globo.com/mercado/status) |
+| MPV é uma estimativa do Gato Mestre, com margem de cerca de 0,5 ponto; PRO vê completo | Confirmado (matéria de 31/03/2024; não achamos atualização específica de 2026) | [Gato Mestre: nova regra de valorização (2024)](https://gatomestre.ge.globo.com/cartola/gato-mestre/noticia/cartola-2024-como-ganhar-cartoletas-com-a-nova-regra-de-valorizacao.ghtml) |
 | Atletas que não entraram em campo ficam sem variação (483 de 485) | Conferido nos dados públicos da rodada 34 | [API do Cartola: atletas/mercado](https://api.cartolafc.globo.com/atletas/mercado) |
 | Valorização baseada no preço atual em 2026; MPV mais alto pra quem mitou | Não confirmado em fonte oficial; só em análise de terceiros | [Oficina da Net, 2ª rodada](https://www.oficinadanet.com.br/games/67299-cartola-fc-2026-dicas-segunda-rodada) e [3ª rodada](https://www.oficinadanet.com.br/games/67453-cartola-fc-2026-dicas-terceira-rodada) |
 | Fórmula exata de valorização, "46% do preço", regra da 4ª rodada em diante | Não confirmado | sem regra oficial publicada |
 
-Não conseguimos abrir o regulamento de 2026 nem uma página da central de ajuda com a fórmula da valorização, e nas páginas oficiais que acessamos ela não aparece. Por isso, **a regra oficial vale sempre mais que este guia**: confira no app e no site do Cartola FC antes de decidir.
+Não existe, até onde achamos, um regulamento de 2026 em página única: a regra pública do jogo está nas matérias e tutoriais do ge. Nelas, a fórmula da valorização não aparece. Por isso, **a regra oficial vale sempre mais que este guia**: confira no app e no site do Cartola FC antes de decidir.
 
 O Catimba é um jogo independente e **não é afiliado à Globo**. Cartola FC é marca de seus titulares.
 
@@ -130,7 +131,7 @@ Cada atleta tem um preço, que sobe se ele pontua acima de um mínimo e cai se p
 
 ### O que é MPV no Cartola?
 
-É o mínimo para valorizar: a pontuação que o atleta precisa fazer na rodada pra subir de preço. É uma estimativa calculada por ferramentas e sites, não um número publicado pelo Cartola.
+É o mínimo para valorizar: a pontuação que o atleta precisa fazer na rodada pra subir de preço. É uma estimativa (a do Gato Mestre tem margem de cerca de 0,5 ponto), não a fórmula do jogo.
 
 ### Jogador lesionado, suspenso ou barrado valoriza?
 
